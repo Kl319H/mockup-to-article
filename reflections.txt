@@ -1,0 +1,9 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+I learned some new skills. I learned the importance of indentation. I learned how to use some new elements in HTML like </sup>, <hr>, <strong> and <em> to name a few. I learned how to put an image on your website in two different ways. I also learned how to take a mock up and deliver an identical website which is really cool. The easiest part was the h tags. The hardest part was remembering that I need to pay attention to every detail of my code. Every character is important. I used the problem solving strategies from the beginning lesson by Googling everything I didn't know and using the MDN website to search for answers to help me get soloutions. I also never gave up. ALthough you can look at the answers if you get suck and try again, I kept trying and trying until I got it right.
